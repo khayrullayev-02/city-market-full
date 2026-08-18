@@ -1,0 +1,18 @@
+# Arxivlar va qurilish fayllari
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Loglar
+*.log
+.ssh/
+.dart-tool/
+.dart_tool/
